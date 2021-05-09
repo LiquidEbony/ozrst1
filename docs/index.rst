@@ -4,14 +4,15 @@
    contain the root `toctree` directive.
 
 Welcome to ozrSphynxTest1's documentation!
-This is trying to use the README.rst file
 ==========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+Documents
+=========
+README
 
 Indices and tables
 ==================
