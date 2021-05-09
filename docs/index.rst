@@ -9,14 +9,16 @@ Welcome to ozrSphynxTest1's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+	
 
-Documents
+
 =========
 README
 
 Indices and tables
 ==================
-
+* :doc:`SubA:index`
+* :doc:`SubB:index`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
